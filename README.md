@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardooYoung&hide=contribs,prs&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardooYoung&layout=compact" />
-</a>
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardooYoung&hide=contribs,prs&count_private=true&show_icons=true)
