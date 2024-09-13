@@ -1,6 +1,6 @@
 ### Runou Yang
 
-🧮 I have received the B.S. degree in School of Mathematics and Statistics at Huazhong University of Science and Technology (HUST).
+🧮 I have received the B.S. degree in the School of Mathematics and Statistics at Huazhong University of Science and Technology (HUST).
 
 🖥 I am currently pursuing an M.S. degree in the School of Artificial Intelligence and Automation at HUST.
 
