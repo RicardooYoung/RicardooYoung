@@ -1,4 +1,11 @@
-### Hi there 👋
+### Runou Yang
+
+🧮 I have received the B.S. degree in School of Mathematics and Statistics at Huazhong University of Science and Technology (HUST).
+
+🖥 I am currently pursuing an M.S. degree in the School of Artificial Intelligence and Automation at HUST.
+
+🔭 My research interests include object detection and transfer learning.
+
 
 <!--
 **RicardooYoung/RicardooYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
